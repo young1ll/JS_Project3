@@ -85,6 +85,7 @@ const boxShuffle =()=>{
         shuffleFlag = !shuffleFlag;
     }
     selNum.length = 0;
+    selNumP.length = 0;
     cnt = 0;
 
 }
